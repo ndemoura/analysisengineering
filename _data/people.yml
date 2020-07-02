@@ -12,11 +12,11 @@ prof-c:
     role: faculty
 
 profx:
-    display_name: "Professor X"
+    display_name: "Professor Nicole"
     webpage: "http://en.wikipedia.org/wiki/Professor_X"
     github: profx
     role: faculty
-    image: /img/people/prof-x.png
+    image: /img/people/nicole.jpg
     bio: Professor
 
 scott:
