@@ -1,161 +1,86 @@
 
 prof-a:
-    display_name: "Prof A"
+    display_name: "Jeffrey Heer"
     role: faculty
+    webpage: https://homes.cs.washington.edu/~jheer/
+    image: /img/people/Jeff.jpeg
+    bio: University of Washington
 
 prof-b:
-    display_name: "Prof B"
+    display_name: "Brad A. Myers"
     role: faculty
+    webpage: http://www.cs.cmu.edu/~bam/
+    image: /img/people/Brad.jpg
+    bio: Carnegie Mellon University
 
 prof-c:
-    display_name: "Prof C"
+    display_name: "Tim Althoff"
     role: faculty
+    webpage: http://timalthoff.de/
+    image: /img/people/tim.jpg
+    bio: University of Washington
 
-profx:
-    display_name: "Professor Nicole"
-    webpage: "http://en.wikipedia.org/wiki/Professor_X"
-    github: profx
+prof-d:
+    display_name: "Arvind Satyanarayan"
     role: faculty
-    image: /img/people/nicole.jpg
-    bio: Professor
-
-scott:
-    display_name: "Scott Summers"
-    webpage: "http://en.wikipedia.org/wiki/Cyclops_(comics)"
-    role: staff
-    image: /img/people/scott.png
-    bio: aka Cyclops
-
-wolverine:
-    display_name: "Wolverine"
-    webpage: "http://en.wikipedia.org/wiki/Wolverine_%28comics%29"
-    github: wolverine
-    role: postdoc
-
-storm:
-    display_name: "Storm"
-    webpage: "http://en.wikipedia.org/wiki/Storm_%28Marvel_Comics%29"
-    role: grad
-    image: /img/people/storm.png
+    webpage: https://arvindsatya.com/
+    image: /img/people/Arvin.jpg
+    bio: Massachusetts Institute of Technology
 
 grad-a:
-    display_name: "Grad A"
+    display_name: "Eunice Jun"
     role: grad
+    webpage: https://homes.cs.washington.edu/~emjun/
+    image: /img/people/Eunice.jpg
+    bio: University of Washington
+    
 
 grad-b:
-    display_name: "Graduate Student B With Long Name"
+    display_name: "Yang Lui"
     role: grad
+    webpage: https://yangliu.life/#/
+    image: /img/people/Yang.jpg
+    bio: University of Washington
 
 grad-c:
-    display_name: "Grad C"
+    display_name: "Sherry Tongshuang Wu"
     role: grad
+    webpage: https://homes.cs.washington.edu/~wtshuang/
+    image: /img/people/Tong.png
+    bio: University of Washington
 
 grad-d:
-    display_name: "Grad D"
+    display_name: "Mary Beth Kery"
     role: grad
+    webpage: https://marybethkery.com/
+    image: /img/people/Mary.jpg
+    bio: Carnegie Mellon University
 
 grad-e:
-    display_name: "Grad E"
+    display_name: "Mike Merrill"
     role: grad
+    webpage: http://mikemerrill.io/
+    image: /img/people/mike.jpeg
+    bio: University of Washington
 
 grad-f:
-    display_name: "Grad F"
+    display_name: "Ge Zhang"
     role: grad
+    webpage:
+    image: /img/people/
+    bio: University of Washington
 
 grad-g:
-    display_name: "Grad G"
+    display_name: "Aspen Hopkins"
     role: grad
+    webpage: https://skitree.github.io/aspenhopkins/
+    image: /img/people/
+    bio: Massachusetts Institute of Technology
 
 grad-h:
-    display_name: "Grad H"
+    display_name: "Nathalie Vladis"
     role: grad
+    webpage:
+    image: /img/people/
+    bio: MIT & Harvard Medical School
 
-grad-i:
-    display_name: "Grad I"
-    role: grad
-
-alum-a:
-    display_name: "Alum A"
-    role: alum
-    bio: "Ph.D., 2013. Now at Microsoft Research."
-
-alum-b:
-    display_name: "Alum B With Way Longer Name"
-    role: alum
-
-alum-c:
-    display_name: "Alum C"
-    role: alum
-    webpage: "https://www.google.com"
-
-alum-d:
-    display_name: "Alum D"
-    role: alum
-
-alum-e:
-    display_name: "Alum E"
-    role: alum
-
-alum-f:
-    display_name: "Alum F"
-    role: alum
-
-alum-g:
-    display_name: "Alum G"
-    role: alum
-
-alum-h:
-    display_name: "Alum H"
-    role: alum
-
-alum-i:
-    display_name: "Alum I"
-    role: alum
-
-collab-a:
-    display_name: "Collaborator A"
-    role: collab
-
-collab-b:
-    display_name: "Collaborator B With Long Name"
-    role: collab
-
-collab-c:
-    display_name: "Collaborator C"
-    role: collab
-
-collab-d:
-    display_name: "Collaborator D"
-    role: collab
-
-collab-e:
-    display_name: "Collaborator E"
-    role: collab
-
-ugrad-a:
-    display_name: "Ugrad A"
-    role: ugrad
-
-ugrad-b:
-    display_name: "Ugrad Student B With Long Name"
-    role: ugrad
-
-ugrad-c:
-    display_name: "Ugrad C"
-    role: ugrad
-
-ugrad-d:
-    display_name: "Ugrad D"
-    role: ugrad
-
-ugrad-e:
-    display_name: "Ugrad E"
-    role: ugrad
-
-ugrad-alum-a:
-    display_name: "Past Ugrad A"
-    role: ugrad-alum
-
-ugrad-alum-b:
-    display_name: "Past Ugrad Student B With Long Name"
-    role: ugrad-alum
