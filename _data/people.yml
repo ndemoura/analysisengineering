@@ -32,7 +32,7 @@ grad-a:
     role: grad
     webpage: https://homes.cs.washington.edu/~emjun/
     image: /img/people/Eunice.jpg
-    bio: University of Washington
+    bio: PhD student with Jeffrey Heer from University of Washington
     
 
 grad-b:
@@ -40,47 +40,50 @@ grad-b:
     role: grad
     webpage: https://yangliu.life/#/
     image: /img/people/Yang.jpg
-    bio: University of Washington
+    bio: PhD student with Jeef Heer from University of Washington
 
 grad-c:
     display_name: "Sherry Tongshuang Wu"
     role: grad
     webpage: https://homes.cs.washington.edu/~wtshuang/
-    image: /img/people/Tong.png
-    bio: University of Washington
+    image: /img/people/Sherry.png
+    bio: PhD student with Jeef Heer from University of Washington
 
 grad-d:
     display_name: "Mary Beth Kery"
     role: grad
     webpage: https://marybethkery.com/
     image: /img/people/Mary.jpg
-    bio: Carnegie Mellon University
+    bio: PhD student with Brad Myers from CMU
 
 grad-e:
     display_name: "Mike Merrill"
     role: grad
     webpage: http://mikemerrill.io/
     image: /img/people/mike.jpeg
-    bio: University of Washington
+    bio: PhD student with Tim Althoff from University of Washington
 
-grad-f:
-    display_name: "Ge Zhang"
-    role: grad
-    webpage:
-    image: /img/people/
-    bio: University of Washington
 
 grad-g:
     display_name: "Aspen Hopkins"
     role: grad
     webpage: https://skitree.github.io/aspenhopkins/
     image: /img/people/
-    bio: Massachusetts Institute of Technology
+    bio: PhD student with Arvind Satyanarayan with MIT
 
 grad-h:
     display_name: "Nathalie Vladis"
     role: grad
     webpage:
     image: /img/people/
-    bio: MIT & Harvard Medical School
+    bio: Postdoc with Arvind Satyanarayan from MIT & Harvard Medical School
+
+
+undergraduate:
+    display_name: "Ge Zhang"
+    role: ugrad
+    webpage:
+    image: /img/people/
+    bio: With Tim Althoff from University of Washington
+
 
